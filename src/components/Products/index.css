@@ -1,0 +1,12 @@
+.products-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.products-image {
+  max-height: 160px;
+  max-width: 140px;
+}
